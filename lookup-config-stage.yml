@@ -1,2 +1,2 @@
 application:
-  name: lookup-stage
+  api-key: api-gateway-prod-key
