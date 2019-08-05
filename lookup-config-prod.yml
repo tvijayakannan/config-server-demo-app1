@@ -1,2 +1,2 @@
 application:
-  name: lookup-production
+  api-key: api-gateway-prod-key
