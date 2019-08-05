@@ -1,2 +1,2 @@
 application:
-  api-key: api-gateway-prod-key
+  api-key: api-gateway-stage-key
